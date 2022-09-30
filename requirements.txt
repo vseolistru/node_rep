@@ -1,3 +1,0 @@
-npm i express mongoose cors dotenv nodemon
-npm i bcryptjs
-npm i nodemailer uuid
